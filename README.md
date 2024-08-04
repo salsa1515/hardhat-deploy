@@ -2,7 +2,7 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
+Feel free donate to author EVM address
 
 EVM :
 
@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/salsa1515/hardhat-deploy.git
 ```
 
 ```
-cd hardhat-deploy-contract
+cd hardhat-deploy
 ```
 
 ### 2. Install Dependency
@@ -111,5 +111,3 @@ by :
 github : [Mnuralim](https://github.com/Mnuralim)
 twitter : @Izzycracker04
 telegram : @fitriay19
-
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
